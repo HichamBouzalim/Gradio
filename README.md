@@ -115,7 +115,7 @@ iface.launch(server_name="0.0.0.0", server_port=7860)
 * **Internet Access**:
 
   * Configure port forwarding on the router
-  * Optional: use a tunneling service like  **ngrokr**
+  * Optional: use a tunneling service like  **ngrok**
 * **Performance**:
 
   * GPU recommended for faster inference
