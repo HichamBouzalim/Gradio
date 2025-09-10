@@ -64,8 +64,8 @@ This project provides a **lightweight, accessible tool** for image captioning th
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/HichamBouzalim/Gradio-Blip-Caption.git
+cd Gradio-Blip-Caption
 python -m venv venv  # create virtual environment (optional)
 # Activate:
 # Windows: venv\Scripts\activate
@@ -80,7 +80,7 @@ pip install torch transformers gradio pillow
 ## 🚀 Usage
 
 ```bash
-python app.py
+python Gradio-Blip-Caption.py
 ```
 
 * **Local (same machine)**: [http://127.0.0.1:7860](http://127.0.0.1:7860)
